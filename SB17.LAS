@@ -1,6 +1,6 @@
 ~VERSION INFORMATION
 VERS.      2.0   :CWLS LOG ASCII STANDARD--VERSION 2.0
-WRAP.      NO    :ONE LINE PER DEPTH STEP
+WRAP.      NO    :ONE LINE PER DEPTH STEPP
 ~WELL INFORMATION
 #MNEM.UNIT              DATA          DESCRIPTION
 #================================================
